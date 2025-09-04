@@ -72,7 +72,7 @@
 
 | Award | Certificate |
 |:---:|:---:|
-|  <img width="300" src=""> 미수령 |<img width="300" src="https://github.com/user-attachments/assets/b65960f1-4b58-445d-920d-7ffe33ae36f5"> |
+|  <img width="300" height="1246" alt="image" src="https://github.com/user-attachments/assets/0b0d3b58-49df-4744-b65c-9180048b8325" />  |<img width="300" src="https://github.com/user-attachments/assets/b65960f1-4b58-445d-920d-7ffe33ae36f5"> |
 | Gold Prize (금상) | Excellent Paper Award (논문 우수상) |
 
 
