@@ -83,7 +83,7 @@
 <br>
 <br>
 
-## Git Convention 
+## Git Convention
 
 | 태그 이름   |사용 설명|
 |---------|---|
@@ -115,9 +115,9 @@ git commit -m "기능 추가" # 유형 명시 누락
 
 ## Team
 
-| [한권희](https://github.com/abookhui) (PM) | [이동현](https://github.com/ldh0784) | [김경민](https://github.com/enterinthere) | [김하연](https://github.com/machkite) | [김동하](https://github.com/EastHA2403) |
-|:---:|:---:|:---:|:---:|:---:|
-| <img width="200" src="https://github.com/abookhui.png"> | <img width="200" src="https://github.com/ldh0784.png"> | <img width="200" src="https://github.com/enterinthere.png"> | <img width="200" src="https://github.com/machkite.png"> | <img width="200" src="https://github.com/EastHA2403.png"> |
-| Backend Developer | Frontend Developer | Frontend Developer | Frontend Developer | Backend Developer |
+|                [한권희](https://github.com/abookhui) (PM)                 | [이동현](https://github.com/ldh0784) | [김경민](https://github.com/enterinthere) | [김하연](https://github.com/machkite) | [김동하](https://github.com/EastHA2403) |
+|:----------------------------------------------------------------------:|:---:|:---:|:---:|:---:|
+|        <img width="200" src="https://github.com/abookhui.png">         | <img width="200" src="https://github.com/ldh0784.png"> | <img width="200" src="https://github.com/enterinthere.png"> | <img width="200" src="https://github.com/machkite.png"> | <img width="200" src="https://github.com/EastHA2403.png"> |
+|                Backend Developer<br> Frontend Developer                | Frontend Developer | Frontend Developer | Frontend Developer | Backend Developer |
 
 
